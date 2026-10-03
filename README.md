@@ -1,0 +1,2 @@
+# premium-kiln-pyrometer-001-kiln-pyrometer-wiring-temp-c
+Stop second-guessing your kiln's temperature readings and wrestling with tangled wiring diagrams. Your next firing deserves precision, not guesswork.  This Notion template transforms your craft studio into a digital control center for kiln pyrometer wiring and temperature management. Track wiring configurations, log firing sessions, and monitor tem
